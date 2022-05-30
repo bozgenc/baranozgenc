@@ -2,12 +2,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bozgenc&label=Profile%20views&color=0e75b6&style=flat" alt="bozgenc" /> </p>
 
 I have experience
-- 💬 have experience with **react,**
-- 💬 have experience with **javascript,**
-- 💬 have experience with **java,**
-- 💬 have experience with **typescript,**
-- 💬 have experience with **design patterns,**
-- 💬 have experience with **object oriented programming**
+- 💬 with **react,**
+- 💬 with **javascript,**
+- 💬 with **java,**
+- 💬 with **typescript,**
+- 💬 with **design patterns,**
+- 💬 with **object oriented programming**
 
 - 📫 How to reach me **bozgenc.b@gmail.com**
 
