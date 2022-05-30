@@ -5,7 +5,7 @@
 - 💬 Ask me about **javascript,**  </br>
 - 💬 Ask me about **java,**  </br>
 - 💬 Ask me about **typescript,** </br>
-- 💬 Ask me about **design patterns, **  </br>
+- 💬 Ask me about **design patterns,**  </br>
 - 💬 Ask me about **oop** </br>
 
 - 📫 How to reach me **bozgenc.b@gmail.com**
