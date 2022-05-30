@@ -9,7 +9,7 @@ I have experience with
 - 💾 **design patterns,**
 - 💾 **object oriented programming**
 
-- 📫 How to reach me **bozgenc.b@gmail.com**
+- 📫Feel free to reach me from **bozgenc.b@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
