@@ -1,13 +1,13 @@
 <h2 align="center">Hello, I'm Baran</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bozgenc&label=Profile%20views&color=0e75b6&style=flat" alt="bozgenc" /> </p>
 
-I have experience
-- 💬 with **react,**
-- 💬 with **javascript,**
-- 💬 with **java,**
-- 💬 with **typescript,**
-- 💬 with **design patterns,**
-- 💬 with **object oriented programming**
+I have experience with
+- 💾 **react,**
+- 💾 **javascript,**
+- 💾 **java,**
+- 💾 **typescript,**
+- 💾 **design patterns,**
+- 💾 **object oriented programming**
 
 - 📫 How to reach me **bozgenc.b@gmail.com**
 
