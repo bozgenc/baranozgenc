@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Baran</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bozgenc&label=Profile%20views&color=0e75b6&style=flat" alt="bozgenc" /> </p>
-<p align="left"> I have experience </p>
+<p align="left"> I have experience </p> </br>
 - 💬 with **react,** </br>
 - 💬 with **javascript,**  </br>
 - 💬 with **java,**  </br>
