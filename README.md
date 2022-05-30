@@ -1,12 +1,12 @@
 <h1 align="center">Hello, I'm Baran</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bozgenc&label=Profile%20views&color=0e75b6&style=flat" alt="bozgenc" /> </p>
-
-- 💬 Ask me about **react,** </br>
-- 💬 Ask me about **javascript,**  </br>
-- 💬 Ask me about **java,**  </br>
-- 💬 Ask me about **typescript,** </br>
-- 💬 Ask me about **design patterns,**  </br>
-- 💬 Ask me about **oop** </br>
+<p align="left"> I have experience </p>
+- 💬 with **react,** </br>
+- 💬 with **javascript,**  </br>
+- 💬 with **java,**  </br>
+- 💬 with **typescript,** </br>
+- 💬 with **design patterns,**  </br>
+- 💬 with **oop** </br>
 
 - 📫 How to reach me **bozgenc.b@gmail.com**
 
