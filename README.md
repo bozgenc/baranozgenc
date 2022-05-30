@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Baran</h1>
-<p align="center" style="font-size:5px;">Aller anfang ist schwer. Anfangen ist einfach. Beharrlichkeit eine kunst. </p>
+<p align="center" style="font-size:100px;">Aller anfang ist schwer. Anfangen ist einfach. Beharrlichkeit eine kunst. </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bozgenc&label=Profile%20views&color=0e75b6&style=flat" alt="bozgenc" /> </p>
 
 - 💬 Ask me about **react,** </br>
