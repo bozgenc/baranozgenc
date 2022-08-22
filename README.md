@@ -2,14 +2,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bozgenc&label=Profile%20views&color=0e75b6&style=flat" alt="bozgenc" /> </p>
 
 I have experience with
-- 💾 **react,**
-- 💾 **javascript,**
-- 💾 **java,**
-- 💾 **springboot,**
-- 💾 **microservices,**
-- 💾 **typescript,**
-- 💾 **design patterns,**
-- 💾 **object oriented programming**
+-  **java,**
+-  **springboot,**
+-  **microservices(zipkin, eureka, swagger, resillience4j etc),**
+-  **react,**
+-  **javascript,**
+-  **typescript,**
+-  **design patterns,**
+-  **object oriented programming**
 
 - 📫Feel free to reach me from **bozgenc.b@gmail.com**
 
