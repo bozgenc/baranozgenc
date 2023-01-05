@@ -4,7 +4,7 @@
 I have experience with
 -  **java,**
 -  **springboot,**
--  **microservices(zipkin, eureka, swagger, resillience4j etc),**
+-  **microservices(zipkin, eureka, swagger, resilience4j etc),**
 -  **react,**
 -  **javascript,**
 -  **typescript,**
